@@ -10,7 +10,7 @@ const animal = {
   }
 };
 
-
 animal.saySpecies("English"); //Prints: I am a Sea lion.
+
 
 
